@@ -1,0 +1,20 @@
+body {
+  background-color:#00f7b5;
+}
+header {
+  text-align:center;
+  border: 6px  solid black;
+}
+section {
+    text-align:center;
+  border: 6px  solid black;
+}
+ul {
+  list-style-position: inside;
+}
+ol{
+  list-style-position: inside;
+}
+p {
+  border:8px double black;
+}

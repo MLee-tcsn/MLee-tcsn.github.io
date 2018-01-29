@@ -1,0 +1,9 @@
+body {
+  background-color:#bc4ff2;
+}
+header {
+  text-align:center;
+  border: 6px  solid black;
+  margin: 0 auto;
+  padding-bottom:1cm;
+}
