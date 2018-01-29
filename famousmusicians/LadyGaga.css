@@ -1,11 +1,11 @@
 body {
   background-color: #9d41f4;
 }
-}
 header {
     text-align: center;
     border: 6px solid black;
     margin: 20px;
+}
 section {
     text-align: center;
     margin: 20px;
@@ -14,7 +14,7 @@ section {
 ul {
   list-style-position: inside;
 }
-ol{
+ol {
   list-style-position: inside;
 }
 p {
